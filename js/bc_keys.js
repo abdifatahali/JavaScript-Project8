@@ -1,15 +1,6 @@
 "use strict";
 
 /*
-   New Perspectives on HTML5, CSS3 and JavaScript 6th Edition
-   Tutorial 12
-   Review Assignment
-
-   Author: Abdifatah Ali
-   Date:   January 26, 2020
-
-   Filename: bc_keys.js
-
    Functions
    =========
    
